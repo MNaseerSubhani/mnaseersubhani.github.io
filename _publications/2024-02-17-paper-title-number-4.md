@@ -16,3 +16,22 @@ Self-supervised learning approaches for unsupervised domain adaptation (UDA) of 
 
 **[Paper](https://arxiv.org/pdf/2007.14449)**
 **[Code](https://github.com/MNaseerSubhani/LSE)**
+
+
+
+---
+title: "ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmen-
+tation for Remote Sensing Images"
+collection: publications
+category: conferences
+permalink: /publication/2024-02-17-paper-title-number-4
+date: 2026-02-20
+venue: 'CVPR'
+paperurl: 'https://arxiv.org/pdf/2007.14449'
+citation: M.Naseer Subhani, Mohsen Ali 
+
+---
+
+
+**[Paper]([https://arxiv.org/pdf/2007.14449](https://arxiv.org/abs/2511.21606))**
+**[Code](https://github.com/MNaseerSubhani/ReSAM)**
