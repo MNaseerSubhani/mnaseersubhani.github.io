@@ -26,9 +26,18 @@ redirect_from:
 
 ### Olektra AI   
 **Project Manager**  
-* Full Time, Pakistan*  
+Full Time, Pakistan*  
 **Aug 2019 – Present**  
-- Optimized financial data analysis pipelines by integrating diverse datasets."
+- Developing AI-based inspection systems for manufacturing environments, includ-
+ing defect detection, quality control, and process monitoring.
+- Analyze industrial workflows to identify core problems and propose efficient, au-
+tomated solutions.
+- Work directly with engineering and production teams to integrate AI models into
+real-world industrial systems.
+- Build, test, and deploy machine learning, computer vision, and automation solu-
+tions tailored to industry needs.
+- Ensure all solutions meet industry standards, production requirements, and per-
+formance targets
 
 ---
 
