@@ -23,21 +23,22 @@ redirect_from:
 
 ## Experience
 
-### Apex Treasure Sdn Bhd  
-**Computer Vision Engineer**  
-*Remote, Pakistan*  
-**Jan 2023 – Present**  
-- Developing classification, object detection, and segmentation models optimized for embedded systems and low-power hardware.  
-- Delivering AI-driven solutions to improve efficiency in industrial projects.  
-- Gaining experience in integrating computer vision solutions into embedded platforms for seamless compatibility.  
+
+### Olektra AI   
+**Project Manager**  
+* Full Time, Pakistan*  
+**Aug 2019 – Present**  
+- Optimized financial data analysis pipelines by integrating diverse datasets."
 
 ---
 
-### Thinkorithm  
-**Consultant**  
-*Remote (Part Time), Pakistan*  
-**June 2022 – Present**  
-- Optimized financial data analysis pipelines by integrating diverse datasets."
+### Apex Treasure Sdn Bhd  
+**Computer Vision Engineer**  
+*Remote, Pakistan*  
+**Jan 2023 – April 2025**  
+- Developing classification, object detection, and segmentation models optimized for embedded systems and low-power hardware.  
+- Delivering AI-driven solutions to improve efficiency in industrial projects.  
+- Gaining experience in integrating computer vision solutions into embedded platforms for seamless compatibility.  
 
 
 ---
