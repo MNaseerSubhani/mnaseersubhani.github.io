@@ -17,7 +17,7 @@ redirect_from:
 **LinkedIn:** [mnaseersubhani](https://www.linkedin.com/in/mnaseersubhani/)  
 
 ---
-**Download in PDF:** [CV](https://drive.google.com/file/d/1jk-alCiKVaGxQuMJpNSxlxob7F2dGqd6/view?usp=sharing)  
+**Download in PDF:** [CV](https://drive.google.com/file/d/1ba07VcXuzh9hoAssLOfEIBCMX20yhwHm/view?usp=sharing)  
 
 ---
 
