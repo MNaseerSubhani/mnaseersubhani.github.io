@@ -12,9 +12,10 @@ redirect_from:
 </div>
 <!-- ![Cover Photo]() -->
 
-- 🎓 An engineer with expertise in deep learning, embedded systems, and industrial AI solutions.
-- 🔬 My focus is on developing scalable, efficient AI solutions to bridge the gap between cutting-edge research and real-world challenges.
-- 🌱 I am passionate about enhancing productivity, sustainability, and progress through technology.
+-    An engineer with expertise in deep learning, embedded systems, and industrial AI solutions.
+-    My focus is on developing scalable, efficient AI solutions to bridge the gap between cutting-edge research and real-world challenges.
+-    I am passionate about enhancing productivity, sustainability, and progress through technology.
+-    Two papers accepted in ECCV2020 and CVPR2026
 
 ## Experience
 
