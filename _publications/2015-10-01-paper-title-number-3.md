@@ -15,7 +15,7 @@ citation: M.Naseer Subhani
 
 
 **[Paper](https://arxiv.org/pdf/2511.21606)**
-**[Code](github.com/MNaseerSubhani/ReSAM)**
+**[Code](https://github.com/MNaseerSubhani/ReSAM)**
 
 
 
