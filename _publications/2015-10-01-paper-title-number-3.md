@@ -15,6 +15,6 @@ citation: M.Naseer Subhani
 
 
 **[Paper]([https://arxiv.org/pdf/2007.14449](https://arxiv.org/pdf/2511.21606))**
-**[Code](https://github.com/MNaseerSubhani/LSE)**
+**[Code](github.com/MNaseerSubhani/ReSAM)**
 
 
