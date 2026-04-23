@@ -12,7 +12,7 @@ redirect_from:
 </div>
 <!-- ![Cover Photo]() -->
 
-I build **production-grade Industrial AI** and **embedded computer vision** systems—from model development to deployment on constrained, real-world hardware. My focus is on reliable, scalable solutions that bridge research and manufacturing impact.
+I’m an **Industrial AI & Embedded Vision** engineer building production-grade systems—from model development to deployment on constrained, real-world hardware. My focus is on reliable, scalable solutions that bridge research and measurable manufacturing impact.
 
 - **Core areas**: industrial inspection, anomaly detection, detection/segmentation, domain adaptation
 - **Deployment**: NVIDIA Jetson (Xavier NX, TX2), low-power edge systems, end-to-end CV pipelines
