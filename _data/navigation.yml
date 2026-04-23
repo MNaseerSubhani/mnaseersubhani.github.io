@@ -5,14 +5,17 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "News"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Portfolio"
-    url: /portfolio/    
+  # - title: "Portfolio"
+  #   url: /portfolio/    
 
-  - title: "Testimonial"
-    url: /testimonial/    
+  # - title: "Testimonial"
+  #   url: /testimonial/    
 
   - title: "CV"
     url: /cv/
