@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 # Naseer Subhani
-<div style="border: 5px solid #007BFF; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://mnaseersubhani.github.io/files/cover.jpeg" alt="Cover Photo" style="width: 100%; display: block;">
+<div class="cover-card">
+  <img class="cover-image" src="https://mnaseersubhani.github.io/files/cover.jpeg" alt="Cover Photo">
 </div>
 <!-- ![Cover Photo]() -->
 
@@ -20,7 +20,8 @@ I’m an **Industrial AI & Embedded Vision** engineer building production-grade 
 
 ## News
 
-- **2026-04**: Paper accepted at **CVPR 2026**. (Details/links coming soon.)
+- **2026-02**: Accepted at **CVPR 2026**.  
+  [Paper (arXiv PDF)](https://arxiv.org/pdf/2511.21606) · [Code](https://github.com/MNaseerSubhani/ReSAM)
 - **2020-07**: Paper accepted at **ECCV 2020**.
 
 ## Industrial Experience
@@ -46,8 +47,10 @@ I’m an **Industrial AI & Embedded Vision** engineer building production-grade 
 - As a **Research Associate** at ITU, deployed **Apollo.auto** on NVIDIA Jetson TX2 for self-driving experimentation.
 - Worked on domain adaptation and generalization challenges in computer vision.
 
-## Selected Publications
 
-- **ECCV 2020** — *Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation*  
+## Publications
+
+- **CVPR 2026** — <span class="pub-title">ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images</span>  
+  [Paper (arXiv PDF)](https://arxiv.org/pdf/2511.21606) · [Code](https://github.com/MNaseerSubhani/ReSAM)
+- **ECCV 2020** — <span class="pub-title">Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation</span>  
   [Paper (arXiv PDF)](https://arxiv.org/pdf/2007.14449)
-- **CVPR 2026** — Accepted. (Link to appear.)

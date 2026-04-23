@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* --- Local custom polish (homepage news/publications) --- */
+.cover-card {
+  border: 5px solid #007bff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.25rem; /* space below front image */
+}
+
+.cover-image {
+  width: 100%;
+  display: block; /* remove inline-image baseline gap */
+}
+
+.pub-title {
+  color: #0b63ce;
+  font-weight: 600;
+}
