@@ -44,25 +44,7 @@ I design and deploy **end-to-end AI solutions**—from model development to opti
 
 ---
 
-## Education
 
-**MS Electrical Engineering** — Information Technology University *(2016 – 2018)*  
-- Specialization: Deep Learning & Embedded Systems  
-- Thesis: *Learning from Self-Generated Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation*
-
-**BS Electrical Engineering** — University of Lahore *(2012 – 2016)*  
-- Focus: Communication & Embedded Systems  
-
----
-
-## Skills
-
-**Languages**: Python, C++, C#, JavaScript, Dart, SQL, Shell, Java  
-**Technologies**: Computer Vision, Embedded AI, ROS2, PX4, Docker, Kafka, CI/CD, Streamlit, Gradio  
-**AI/ML**: PyTorch, TensorFlow, Keras, OpenCV, LoRA, LangChain, LangGraph, RAG  
-**Strengths**: Debugging deep learning pipelines, system optimization, cross-functional collaboration  
-
----
 
 ## Honors & Awards
 
