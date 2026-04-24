@@ -6,51 +6,74 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Naseer Subhani
+
+
+# Muhammad Naseer Subhani
+
 <div class="cover-card">
   <img class="cover-image" src="https://mnaseersubhani.github.io/files/cover.jpeg" alt="Cover Photo">
 </div>
-<!-- ![Cover Photo]() -->
 
-I’m an **Industrial AI & Embedded Vision** engineer building production-grade systems—from model development to deployment on constrained, real-world hardware. My focus is on reliable, scalable solutions that bridge research and measurable manufacturing impact.
+I’m an **Industrial AI & Embedded Vision Engineer** specializing in building **scalable, production-grade AI systems** that bridge cutting-edge research with real-world industrial deployment. My work focuses on improving **efficiency, reliability, and automation** in manufacturing and embedded environments.
 
-- **Core areas**: industrial inspection, anomaly detection, detection/segmentation, domain adaptation
-- **Deployment**: NVIDIA Jetson (Xavier NX, TX2), low-power edge systems, end-to-end CV pipelines
-- **Tooling**: PyTorch, TensorFlow/Keras, OpenCV
+I design and deploy **end-to-end AI solutions**—from model development to optimized inference on constrained hardware—driving measurable impact in production systems.
+
+- **Core areas**: industrial inspection, anomaly detection, detection/segmentation, domain adaptation  
+- **Edge & deployment**: NVIDIA Jetson (Xavier NX, TX2, AGX), low-power systems, real-time pipelines  
+- **AI systems**: CV pipelines, AI agents, LLM fine-tuning (LoRA), automation workflows  
+- **Tooling**: PyTorch, TensorFlow/Keras, OpenCV, ROS2, Docker, CI/CD  
+
+---
 
 ## News
 
-- **2026-02**: Accepted at **CVPR 2026**.  
-  [Paper (arXiv PDF)](https://arxiv.org/pdf/2511.21606) · [Code](https://github.com/MNaseerSubhani/ReSAM)
-- **2020-07**: Paper accepted at **ECCV 2020**.
+- **2026-02**: Accepted at **CVPR 2026**  
+  [Paper (arXiv PDF)](https://arxiv.org/pdf/2511.21606) · [Code](https://github.com/MNaseerSubhani/ReSAM)  
+- **2020-07**: Paper accepted at **ECCV 2020**
 
-## Industrial Experience
-
-### AI for Manufacturing & Quality Inspection
-
-- Delivered AI-driven computer vision systems for manufacturing, improving throughput and inspection consistency.
-- Deployed solutions for **Savola Group**, **SaudiCan**, and **Aquat Food Industries**.
-- Built edge pipelines optimized for reliability: model optimization, camera/IO integration, monitoring, and on-device inference.
-
-### Embedded & Edge Deployment
-
-- Production deployments on **NVIDIA Jetson** platforms (Xavier NX, TX2), targeting latency and power constraints.
-- Integrated models into full applications (data ingest → inference → decisions → reporting), with an emphasis on maintainability.
-
-### Re-implementing & Shipping Deep Learning Models
-
-- Re-implemented and adapted state-of-the-art models for industrial settings (detection, segmentation, anomaly detection).
-- Focus on practical robustness: dataset drift, domain shift, calibration, and deployment-friendly architectures.
-
-## Research
-
-- As a **Research Associate** at ITU, deployed **Apollo.auto** on NVIDIA Jetson TX2 for self-driving experimentation.
-- Worked on domain adaptation and generalization challenges in computer vision.
+---
 
 
 ## Publications
 
 - **CVPR 2026** — <span class="pub-title">ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images</span>  
   [Paper (arXiv PDF)](https://arxiv.org/pdf/2511.21606) · [Code](https://github.com/MNaseerSubhani/ReSAM)
+
 - **ECCV 2020** — <span class="pub-title">Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation</span>  
   [Paper (arXiv PDF)](https://arxiv.org/pdf/2007.14449)
+
+---
+
+## Education
+
+**MS Electrical Engineering** — Information Technology University *(2016 – 2018)*  
+- Specialization: Deep Learning & Embedded Systems  
+- Thesis: *Learning from Self-Generated Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation*
+
+**BS Electrical Engineering** — University of Lahore *(2012 – 2016)*  
+- Focus: Communication & Embedded Systems  
+
+---
+
+## Skills
+
+**Languages**: Python, C++, C#, JavaScript, Dart, SQL, Shell, Java  
+**Technologies**: Computer Vision, Embedded AI, ROS2, PX4, Docker, Kafka, CI/CD, Streamlit, Gradio  
+**AI/ML**: PyTorch, TensorFlow, Keras, OpenCV, LoRA, LangChain, LangGraph, RAG  
+**Strengths**: Debugging deep learning pipelines, system optimization, cross-functional collaboration  
+
+---
+
+## Honors & Awards
+
+- First **solo author from Pakistan at CVPR**  
+- Awarded **$10,000 Azure credits** by Microsoft  
+- **Gold Medal** — Microcontroller Programming (UCP Olympic 2015)  
+- **Silver Medal** — Microcontroller Programming (UCP Olympic 2016)  
+- **1st Position** — Microcontroller Programming (UOL ECL 2016)  
+
+---
+
+## Contact
+
+- Email: im.naseerr@gmail.com  
